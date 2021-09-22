@@ -3,7 +3,7 @@
 
 ## About :bulb:
 
-This is a simple application written using OOPs concepts in Java. </br>
+It's a simple application written using OOPs concepts in Java. </br>
 The purpose of the application is to simulate the growth of an oak/fir based on the entered data: name, initial age and height. </br>
 [Show me the result](#result)
 
@@ -14,4 +14,4 @@ The purpose of the application is to simulate the growth of an oak/fir based on 
 
 ##  The result <a name="result"></a> :man_technologist:
 
-[<img src="images/example_output.jpg" alt="Project structure" width="850"/>](example_output.jpg)
+[<img src="images/example_output.jpg" alt="Project structure" width="900"/>](example_output.jpg)
